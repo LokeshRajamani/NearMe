@@ -145,7 +145,7 @@ Simple and relax with play area.
 </p>
 </body>
 </html>
-
+'''
 
 ## Output:
 ![OUTPUT](./screenshots/busout.png)
@@ -161,7 +161,7 @@ Simple and relax with play area.
 ![OUTPUT](./screenshots/rtout.png)
 
 ## HTML Validator:
-![OUTPUT](./screenshots/validator.png
+![OUTPUT](./screenshots/validator.png)
 
 ## Result:
 The proogram for implementing map is executed successfully.
